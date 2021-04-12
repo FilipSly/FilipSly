@@ -1,0 +1,4 @@
+- 👋 Hi, I’m @FilipSly
+- 👀 I’m interested in Coding
+- 🌱 I’m currently learning JavaScript
+- 💞️ I’m looking to collaborate on Discord Bots
